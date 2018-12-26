@@ -11,7 +11,7 @@
     <parameters>
     </parameters>
     <log>
-<trans-log-table><connection/>
+<trans-log-table><connechjilktion/>
 <schema/>
 <table/>
 <size_limit_lines/>
